@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825987077811",
+    "project_id": "inventot-49e3e",
+    "storage_bucket": "inventot-49e3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825987077811:android:a56fde185428571dc402c6",
+        "android_client_info": {
+          "package_name": "com.example.inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqBdP2t-s6kmxsgq1A3J88JFUjcVRE8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
